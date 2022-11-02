@@ -90,3 +90,11 @@ Runing container pods
 ![image](https://user-images.githubusercontent.com/88293613/199466882-edc9f78f-a563-43a6-adf1-e874c5030527.png)
 4. `set_env.sh` is really for your backend application. Frontend applications have a different notion of how to store configurations. Configurations for the application endpoints can be configured inside of the `environments/environment.*ts` files.
 5. In `set_env.sh`, environment variables are set with `export $VAR=value`. Setting it this way is not permanent; every time you open a new terminal, you will have to run `set_env.sh` to reconfigure your environment variables. To verify if your environment variable is set, you can check the variable with a command like `echo $POSTGRES_USERNAME`.
+<p> About me:<p>
+
+<p>Backend | Cloud</p>
+:boy: <b>Anteneh Bizuneh</b> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a href="https://twitter.com/">Twitter</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/">Github</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com">Linkedin</a> ]<br><br>
+
